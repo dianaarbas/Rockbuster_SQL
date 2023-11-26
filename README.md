@@ -31,4 +31,4 @@ The dataset was provided by Rockbuster in the Project Brief and contained the fo
 
 ## Visualization
 
-A visualization was created in Tableau: [Rockbuster: Map of Total Payments and Customer Counts](https://public.tableau.com/shared/K5J6DJF6X?:display_count=n&:origin=viz_share_link)
+A visualization was created in Tableau: [Map of Total Payments and Customer Counts](https://public.tableau.com/shared/K5J6DJF6X?:display_count=n&:origin=viz_share_link)
