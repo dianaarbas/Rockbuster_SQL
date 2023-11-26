@@ -4,7 +4,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 ## Objective
 
-I am collaborating with Rockbuster Stealth’s business intelligence (BI) department to help with the launch strategy for the new online video service. I loaded all of Rockbuster’s data into an RDBMS. Then, I used SQL to analyze the data and answer any ad-hoc business questions that other departments may have. 
+I am collaborating with Rockbuster Stealth’s business intelligence (BI) department to help with the launch strategy for the new online video service. I loaded all of Rockbuster’s data into an RDBMS. Then, I used SQL to analyze the data and answer any ad-hoc business questions that other departments might have. 
 
 ## Data
 
